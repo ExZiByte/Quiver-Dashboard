@@ -1,0 +1,19 @@
+{
+  "name": "quiver-dashboard",
+  "version": "0.0.1",
+  "description": "A dashboard for interfacing with Quiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExZiByte/Quiver-Dashboard.git"
+  },
+  "author": "ExZiByte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExZiByte/Quiver-Dashboard/issues"
+  },
+  "homepage": "https://github.com/ExZiByte/Quiver-Dashboard#readme"
+}
